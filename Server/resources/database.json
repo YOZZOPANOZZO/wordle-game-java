@@ -1,0 +1,17 @@
+[
+{"username":"gatto","passwd":"c1b2ad026119f038138088376b1c8d15c41232158ca81f8a8b5f150d63df60ff","won":0,"wonPerc":-1,"played":0,"streak":0,"maxStreak":0,"lastHints":"","guessDistrib":[],"hasPlayed":false}
+,
+{"username":"Bob","passwd":"03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4","won":4,"wonPerc":50,"played":8,"streak":2,"maxStreak":2,"lastHints":"","guessDistrib":[3,3,2,2],"hasPlayed":false}
+,
+{"username":"pippo","passwd":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","won":0,"wonPerc":-1,"played":0,"streak":0,"maxStreak":0,"lastHints":"","guessDistrib":[],"hasPlayed":false}
+,
+{"username":"Anna","passwd":"ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb","won":0,"wonPerc":0,"played":1,"streak":0,"maxStreak":0,"lastHints":"","guessDistrib":[],"hasPlayed":false}
+,
+{"username":"alfred","passwd":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","won":0,"wonPerc":0,"played":1,"streak":0,"maxStreak":0,"lastHints":"","guessDistrib":[],"hasPlayed":false}
+,
+{"username":"allen","passwd":"03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4","won":0,"wonPerc":-1,"played":0,"streak":0,"maxStreak":0,"lastHints":"","guessDistrib":[],"hasPlayed":false}
+,
+{"username":"anna","passwd":"55579b557896d0ce1764c47fed644f9b35f58bad620674af23f356d80ed0c503","won":0,"wonPerc":-1,"played":0,"streak":0,"maxStreak":0,"lastHints":"","guessDistrib":[],"hasPlayed":false}
+,
+{"username":"ciao","passwd":"7418df96f38366fa21b8b75a23f8ae666ac936824dfe4d172f9b03f8fbce5a1c","won":1,"wonPerc":50,"played":2,"streak":0,"maxStreak":1,"lastHints":"","guessDistrib":[3],"hasPlayed":false}
+]
