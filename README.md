@@ -1,0 +1,3 @@
+# wordle-game-java
+An implenetation of the famous WORDLE game in java using threadpool and multicast.
+The game has a vocabulary of 5 letter words, from which it randomly selects a Secret Word (SW) for players to guess. A new SW is selected every day and is the same for all players who connect on that day. The game has a social aspect as all players are trying to guess the same word. The player inputs a Guessed Word (GW) and the system first checks if it is in the vocabulary. If not, it prompts the player to input another word. If the word is in the vocabulary, the system gives clues to help the player guess the SW.
